@@ -23,7 +23,7 @@ A robust backend system for managing tickets and support requests, built with No
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kaleab27/ticketing-system-backend
 cd ticketing-system-backend
 ```
 
