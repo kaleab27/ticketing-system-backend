@@ -53,7 +53,12 @@ pnpm dev
 
 ## Scripts
 
-- `pnpm dev` - Run TypeScript type checking in watch mode
+- `pnpm dev` - Run the development server with hot reload
+- `pnpm build` - Compile TypeScript code to JavaScript
+- `pnpm start` - Run the production server
+- `pnpm lint` - Run ESLint to check code quality
+- `pnpm clean` - Remove the dist directory
+- `pnpm test` - Run test suite (when tests are added)
 
 ## Tech Stack
 
