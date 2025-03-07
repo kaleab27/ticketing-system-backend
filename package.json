@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "tsc --noEmit"
+    "dev": "nodemon"
   },
   "keywords": [],
   "author": "",
